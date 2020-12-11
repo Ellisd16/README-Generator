@@ -1,18 +1,11 @@
-// function to generate markdown for README
 
-
-// I need these: 
-// Githhub Name and repo, Title, Description, Table of Contents, Installation, Usage, License, 
-// Contributing, Tests, and Questions
-function generateMarkdown(data) {
-  return `
 
   
-  # ${data.title}
+  # Example README
   
   # Description
   
-  ${data.description}
+  A sample README to show how my code works.. hopefully
 
   ## Table of Contents:
 
@@ -26,37 +19,34 @@ function generateMarkdown(data) {
 
   ## Installation
   
-  ${data.installation}
+  Download the code from Github
 
   ## Usage
-  ${data.usage}
+  Type 'node index.js' in the terminal
 
   ## License
   
-  ${data.license}
+  Apache
 
   ## Contributing
   If you would like to contribute to this project, here's how!
   
-  ${data.contributing}
+  Send pizza and beer please
 
   ## Tests
 
-  ${data.tests}
+  maybe later
 
   # Questions
   If you have any questions feel free to reach me through email or through Github!
   
-  Email address: ${data.email}
+  Email address: ellisdelgado13@gmail.com
   
-  Github Username: ${data.username}
+  Github Username: Ellisd16
 
-  Github Profile: www.github.com/${data.username}/
+  Github Profile: www.github.com/Ellisd16/
 
   ---
   Thank you for stopping by! Stay Classy!
   
-  `;
-}
-
-module.exports = generateMarkdown;
+  
