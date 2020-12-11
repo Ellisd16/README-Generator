@@ -102,10 +102,6 @@ function init() {
 // function call to initialize program
 init();
 
-
-
-
-
 // What do i need to do? 
 
 // '^' means completed tasks

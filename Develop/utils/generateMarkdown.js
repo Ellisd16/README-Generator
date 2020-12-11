@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   
   # ${data.title}
   
-  # Description
+  ## Description
   
   ${data.description}
 
@@ -44,7 +44,7 @@ function generateMarkdown(data) {
 
   ${data.tests}
 
-  # Questions
+  ## Questions
   If you have any questions feel free to reach me through email or through Github!
   
   Email address: ${data.email}
