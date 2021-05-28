@@ -10,8 +10,6 @@ https://drive.google.com/file/d/1zChFBF8bWre2h-r_Wf24sS-0ZzivgKMw/view
 
 Download the code for this repo through Github!
 
-## Usage
-
 Simply type in "node index.js" within the terminal (and within the repo) and thats it!
 
 ## Contributions
